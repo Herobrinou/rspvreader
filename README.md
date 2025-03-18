@@ -1,4 +1,4 @@
-# Speed Reader Pro📚
+# Speed Reader Pro
 
 A modern speed reading application that uses the RSVP (Rapid Serial Visual Presentation) technique to help you read faster and more efficiently. By presenting words one at a time in a fixed position, RSVP eliminates the need for eye movement, allowing you to focus entirely on comprehension.
 
